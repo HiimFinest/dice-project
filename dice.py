@@ -15,3 +15,4 @@ user_input = input('Enter the number of dice you would like to roll as an intege
 
 dieroller(user_input)
 
+print("")
