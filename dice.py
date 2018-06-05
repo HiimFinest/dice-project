@@ -1,7 +1,5 @@
 import random
 
-
-
 def dieroller(y):
         print("you have rolled a %s" % random.randint(1,6), end ="")
         for item in range(0, int(y)-2):
